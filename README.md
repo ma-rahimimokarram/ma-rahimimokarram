@@ -25,24 +25,6 @@
 
 ---
 
-### 🚀 Current Projects
-
-- 🦾 DRL-Based 6-DOF Robot Arm Controller  
-- 🌱 Hydroponic Greenhouse Simulation with Image Dataset (3,000+ frames)  
-- 🛠️ Professional CAD Models (CATIA, SolidWorks, NX11)
-
----
-
-### 📂 Featured Repositories
-
-| Project | Description |
-|--------|-------------|
-| [`🌿 Hydroponic-Robot-Sim`](#) | Greenhouse + robotics simulation with annotated data |
-| [`🦾 6DOF-Robot-Manipulation`](#) | RL-powered manipulation & path planning |
-| [`🧰 Mechanical-CAD-Showcase`](#) | Industrial CAD designs and mechanical parts |
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
